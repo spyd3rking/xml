@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <tv generator-info-name="none" generator-info-url="none">
+   <tv generator-info-name="spyd3rking-custom-epg" generator-info-url="https://github.com/spyd3rking/xml/tree/main">
          <channel id="ANTV.id">
                <display-name>ANTV</display-name>
                <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"></icon>
