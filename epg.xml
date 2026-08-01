@@ -190,7 +190,7 @@
         <display-name>VTV</display-name>
         <icon src="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png"/>
     </channel>
-    <channel id="WarnerTV.id">
+    <channel id="WarnersTV.id">
         <display-name>Warner TV</display-name>
     </channel>
     <channel id="ZeeBioskop.id">
@@ -17445,795 +17445,795 @@
     <programme start="20260803163000 +0000" stop="20260803170000 +0000" channel="VTV.id">
         <title lang="id">Mr. Bean</title>
     </programme>
-    <programme start="20260730170000 +0000" stop="20260730175000 +0000" channel="WarnerTV.id">
+    <programme start="20260730170000 +0000" stop="20260730175000 +0000" channel="WarnersTV.id">
         <title lang="id">The Batman</title>
         <desc lang="id">Batman diminta turun tangan saat wali kota Kota Gotham dibunuh. Penyelidikannya menuntunnya menguak jaringan korupsi yang berhubungan dengan masa lalunya yang kelam.</desc>
     </programme>
-    <programme start="20260730175000 +0000" stop="20260730184000 +0000" channel="WarnerTV.id">
+    <programme start="20260730175000 +0000" stop="20260730184000 +0000" channel="WarnersTV.id">
         <title lang="id">Titans S1, Ep. 7</title>
         <desc lang="id">The Titans set out to rescue Rachel&apos;s mother from an asylum.</desc>
         <episode-num system="xmltv_ns">0.6.0/1</episode-num>
         <episode-num system="onscreen">S01E07</episode-num>
     </programme>
-    <programme start="20260730184000 +0000" stop="20260730193000 +0000" channel="WarnerTV.id">
+    <programme start="20260730184000 +0000" stop="20260730193000 +0000" channel="WarnersTV.id">
         <title lang="id">Titans S1, Ep. 8</title>
         <desc lang="id">Dick turns to old friend Donna Troy/Wonder Girl for answers.</desc>
         <episode-num system="xmltv_ns">0.7.0/1</episode-num>
         <episode-num system="onscreen">S01E08</episode-num>
     </programme>
-    <programme start="20260730193000 +0000" stop="20260730195500 +0000" channel="WarnerTV.id">
+    <programme start="20260730193000 +0000" stop="20260730195500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 6</title>
         <desc lang="id">Kevin reveals a gas mask hack that will help you during a zombie apocalypse.</desc>
         <episode-num system="xmltv_ns">3.5.0/1</episode-num>
         <episode-num system="onscreen">S04E06</episode-num>
     </programme>
-    <programme start="20260730195500 +0000" stop="20260730204500 +0000" channel="WarnerTV.id">
+    <programme start="20260730195500 +0000" stop="20260730204500 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 7</title>
         <desc lang="id">This hour, the joke&apos;s on you... and on 20 of the World&apos;s Dumbest Pranksters.</desc>
         <episode-num system="xmltv_ns">15.6.0/1</episode-num>
         <episode-num system="onscreen">S16E07</episode-num>
     </programme>
-    <programme start="20260730204500 +0000" stop="20260730213500 +0000" channel="WarnerTV.id">
+    <programme start="20260730204500 +0000" stop="20260730213500 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 9</title>
         <desc lang="id">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
         <episode-num system="xmltv_ns">1.8.0/1</episode-num>
         <episode-num system="onscreen">S02E09</episode-num>
     </programme>
-    <programme start="20260730213500 +0000" stop="20260730220000 +0000" channel="WarnerTV.id">
+    <programme start="20260730213500 +0000" stop="20260730220000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 9</title>
         <desc lang="id">The guys take over New Orleans, as they steal sips from strangers&apos; drinks at a famous bar.</desc>
         <episode-num system="xmltv_ns">7.8.0/1</episode-num>
         <episode-num system="onscreen">S08E09</episode-num>
     </programme>
-    <programme start="20260730220000 +0000" stop="20260730222500 +0000" channel="WarnerTV.id">
+    <programme start="20260730220000 +0000" stop="20260730222500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 11</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.10.0/1</episode-num>
         <episode-num system="onscreen">S01E11</episode-num>
     </programme>
-    <programme start="20260730222500 +0000" stop="20260730225000 +0000" channel="WarnerTV.id">
+    <programme start="20260730222500 +0000" stop="20260730225000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 12</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.11.0/1</episode-num>
         <episode-num system="onscreen">S01E12</episode-num>
     </programme>
-    <programme start="20260730225000 +0000" stop="20260730234000 +0000" channel="WarnerTV.id">
+    <programme start="20260730225000 +0000" stop="20260730234000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 10</title>
         <desc lang="id">During the Christmas season, a patient who resembles Santa visits the ER with a hand injury from making toys.</desc>
         <episode-num system="xmltv_ns">1.9.0/1</episode-num>
         <episode-num system="onscreen">S02E10</episode-num>
     </programme>
-    <programme start="20260730234000 +0000" stop="20260731003000 +0000" channel="WarnerTV.id">
+    <programme start="20260730234000 +0000" stop="20260731003000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 19</title>
         <desc lang="id">After Lana is almost assaulted by a college student, Clark loses control and injures him.</desc>
         <episode-num system="xmltv_ns">1.18.0/1</episode-num>
         <episode-num system="onscreen">S02E19</episode-num>
     </programme>
-    <programme start="20260731003000 +0000" stop="20260731005500 +0000" channel="WarnerTV.id">
+    <programme start="20260731003000 +0000" stop="20260731005500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 7</title>
         <desc lang="id">Brooke turns an ex&apos;s bad taste in vinyl records into a fun candy bowl.</desc>
         <episode-num system="xmltv_ns">3.6.0/1</episode-num>
         <episode-num system="onscreen">S04E07</episode-num>
     </programme>
-    <programme start="20260731005500 +0000" stop="20260731012000 +0000" channel="WarnerTV.id">
+    <programme start="20260731005500 +0000" stop="20260731012000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 8</title>
         <desc lang="id">Brooke and Kevin go head-to-head testing out hacks to make your pool party the event of the year.</desc>
         <episode-num system="xmltv_ns">3.7.0/1</episode-num>
         <episode-num system="onscreen">S04E08</episode-num>
     </programme>
-    <programme start="20260731012000 +0000" stop="20260731014500 +0000" channel="WarnerTV.id">
+    <programme start="20260731012000 +0000" stop="20260731014500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 11</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.10.0/1</episode-num>
         <episode-num system="onscreen">S01E11</episode-num>
     </programme>
-    <programme start="20260731014500 +0000" stop="20260731021000 +0000" channel="WarnerTV.id">
+    <programme start="20260731014500 +0000" stop="20260731021000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 12</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.11.0/1</episode-num>
         <episode-num system="onscreen">S01E12</episode-num>
     </programme>
-    <programme start="20260731021000 +0000" stop="20260731030000 +0000" channel="WarnerTV.id">
+    <programme start="20260731021000 +0000" stop="20260731030000 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 8</title>
         <desc lang="id">Put Thomas Edison to shame with 20 of the World&apos;s Smartest Inventions.</desc>
         <episode-num system="xmltv_ns">15.7.0/1</episode-num>
         <episode-num system="onscreen">S16E08</episode-num>
     </programme>
-    <programme start="20260731030000 +0000" stop="20260731032500 +0000" channel="WarnerTV.id">
+    <programme start="20260731030000 +0000" stop="20260731032500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 10</title>
         <desc lang="id">Brandon and Lori take a risk on a large covered item during an unusual auction. Will the reveal rev their profits or stall their cash flow?</desc>
         <episode-num system="xmltv_ns">2.9.0/1</episode-num>
         <episode-num system="onscreen">S03E10</episode-num>
     </programme>
-    <programme start="20260731032500 +0000" stop="20260731035000 +0000" channel="WarnerTV.id">
+    <programme start="20260731032500 +0000" stop="20260731035000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 10</title>
         <desc lang="id">The guys head to the park asking strangers to agree with their bizarre points of view.</desc>
         <episode-num system="xmltv_ns">7.9.0/1</episode-num>
         <episode-num system="onscreen">S08E10</episode-num>
     </programme>
-    <programme start="20260731035000 +0000" stop="20260731044000 +0000" channel="WarnerTV.id">
+    <programme start="20260731035000 +0000" stop="20260731044000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 19</title>
         <desc lang="id">After Lana is almost assaulted by a college student, Clark loses control and injures him.</desc>
         <episode-num system="xmltv_ns">1.18.0/1</episode-num>
         <episode-num system="onscreen">S02E19</episode-num>
     </programme>
-    <programme start="20260731044000 +0000" stop="20260731050500 +0000" channel="WarnerTV.id">
+    <programme start="20260731044000 +0000" stop="20260731050500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 7</title>
         <desc lang="id">Brooke turns an ex&apos;s bad taste in vinyl records into a fun candy bowl.</desc>
         <episode-num system="xmltv_ns">3.6.0/1</episode-num>
         <episode-num system="onscreen">S04E07</episode-num>
     </programme>
-    <programme start="20260731050500 +0000" stop="20260731053000 +0000" channel="WarnerTV.id">
+    <programme start="20260731050500 +0000" stop="20260731053000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 8</title>
         <desc lang="id">Brooke and Kevin go head-to-head testing out hacks to make your pool party the event of the year.</desc>
         <episode-num system="xmltv_ns">3.7.0/1</episode-num>
         <episode-num system="onscreen">S04E08</episode-num>
     </programme>
-    <programme start="20260731053000 +0000" stop="20260731055500 +0000" channel="WarnerTV.id">
+    <programme start="20260731053000 +0000" stop="20260731055500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 17</title>
         <desc lang="id">Trouble arises when Amy learns that Sheldon has applied for a one-way mission to colonize Mars.</desc>
         <episode-num system="xmltv_ns">7.16.0/1</episode-num>
         <episode-num system="onscreen">S08E17</episode-num>
     </programme>
-    <programme start="20260731055500 +0000" stop="20260731062000 +0000" channel="WarnerTV.id">
+    <programme start="20260731055500 +0000" stop="20260731062000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 20</title>
         <desc lang="id">Rachel reveals a titillating secret about her and a former sorority sister (WINONA RYDER).</desc>
         <episode-num system="xmltv_ns">6.19.0/1</episode-num>
         <episode-num system="onscreen">S07E20</episode-num>
     </programme>
-    <programme start="20260731062000 +0000" stop="20260731071000 +0000" channel="WarnerTV.id">
+    <programme start="20260731062000 +0000" stop="20260731071000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 10</title>
         <desc lang="id">During the Christmas season, a patient who resembles Santa visits the ER with a hand injury from making toys.</desc>
         <episode-num system="xmltv_ns">1.9.0/1</episode-num>
         <episode-num system="onscreen">S02E10</episode-num>
     </programme>
-    <programme start="20260731071000 +0000" stop="20260731080000 +0000" channel="WarnerTV.id">
+    <programme start="20260731071000 +0000" stop="20260731080000 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 8</title>
         <desc lang="id">Put Thomas Edison to shame with 20 of the World&apos;s Smartest Inventions.</desc>
         <episode-num system="xmltv_ns">15.7.0/1</episode-num>
         <episode-num system="onscreen">S16E08</episode-num>
     </programme>
-    <programme start="20260731080000 +0000" stop="20260731082500 +0000" channel="WarnerTV.id">
+    <programme start="20260731080000 +0000" stop="20260731082500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 17</title>
         <desc lang="id">Trouble arises when Amy learns that Sheldon has applied for a one-way mission to colonize Mars.</desc>
         <episode-num system="xmltv_ns">7.16.0/1</episode-num>
         <episode-num system="onscreen">S08E17</episode-num>
     </programme>
-    <programme start="20260731082500 +0000" stop="20260731085000 +0000" channel="WarnerTV.id">
+    <programme start="20260731082500 +0000" stop="20260731085000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 20</title>
         <desc lang="id">Rachel reveals a titillating secret about her and a former sorority sister (WINONA RYDER).</desc>
         <episode-num system="xmltv_ns">6.19.0/1</episode-num>
         <episode-num system="onscreen">S07E20</episode-num>
     </programme>
-    <programme start="20260731085000 +0000" stop="20260731091500 +0000" channel="WarnerTV.id">
+    <programme start="20260731085000 +0000" stop="20260731091500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 7</title>
         <desc lang="id">Brooke turns an ex&apos;s bad taste in vinyl records into a fun candy bowl.</desc>
         <episode-num system="xmltv_ns">3.6.0/1</episode-num>
         <episode-num system="onscreen">S04E07</episode-num>
     </programme>
-    <programme start="20260731091500 +0000" stop="20260731094000 +0000" channel="WarnerTV.id">
+    <programme start="20260731091500 +0000" stop="20260731094000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 8</title>
         <desc lang="id">Brooke and Kevin go head-to-head testing out hacks to make your pool party the event of the year.</desc>
         <episode-num system="xmltv_ns">3.7.0/1</episode-num>
         <episode-num system="onscreen">S04E08</episode-num>
     </programme>
-    <programme start="20260731094000 +0000" stop="20260731103000 +0000" channel="WarnerTV.id">
+    <programme start="20260731094000 +0000" stop="20260731103000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 19</title>
         <desc lang="id">After Lana is almost assaulted by a college student, Clark loses control and injures him.</desc>
         <episode-num system="xmltv_ns">1.18.0/1</episode-num>
         <episode-num system="onscreen">S02E19</episode-num>
     </programme>
-    <programme start="20260731103000 +0000" stop="20260731105500 +0000" channel="WarnerTV.id">
+    <programme start="20260731103000 +0000" stop="20260731105500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 11</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.10.0/1</episode-num>
         <episode-num system="onscreen">S01E11</episode-num>
     </programme>
-    <programme start="20260731105500 +0000" stop="20260731112000 +0000" channel="WarnerTV.id">
+    <programme start="20260731105500 +0000" stop="20260731112000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 12</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.11.0/1</episode-num>
         <episode-num system="onscreen">S01E12</episode-num>
     </programme>
-    <programme start="20260731112000 +0000" stop="20260731114500 +0000" channel="WarnerTV.id">
+    <programme start="20260731112000 +0000" stop="20260731114500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 18</title>
         <desc lang="id">A final family dinner is held for Mrs. Wolowitz.</desc>
         <episode-num system="xmltv_ns">7.17.0/1</episode-num>
         <episode-num system="onscreen">S08E18</episode-num>
     </programme>
-    <programme start="20260731114500 +0000" stop="20260731121000 +0000" channel="WarnerTV.id">
+    <programme start="20260731114500 +0000" stop="20260731121000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 21</title>
         <desc lang="id">As Monica and Chandler prepare their wedding vows, they and their friends reminisce.</desc>
         <episode-num system="xmltv_ns">6.20.0/1</episode-num>
         <episode-num system="onscreen">S07E21</episode-num>
     </programme>
-    <programme start="20260731121000 +0000" stop="20260731123500 +0000" channel="WarnerTV.id">
+    <programme start="20260731121000 +0000" stop="20260731123500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 10</title>
         <desc lang="id">Brandon and Lori take a risk on a large covered item during an unusual auction. Will the reveal rev their profits or stall their cash flow?</desc>
         <episode-num system="xmltv_ns">2.9.0/1</episode-num>
         <episode-num system="onscreen">S03E10</episode-num>
     </programme>
-    <programme start="20260731123500 +0000" stop="20260731130000 +0000" channel="WarnerTV.id">
+    <programme start="20260731123500 +0000" stop="20260731130000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 10</title>
         <desc lang="id">The guys head to the park asking strangers to agree with their bizarre points of view.</desc>
         <episode-num system="xmltv_ns">7.9.0/1</episode-num>
         <episode-num system="onscreen">S08E10</episode-num>
     </programme>
-    <programme start="20260731130000 +0000" stop="20260731151000 +0000" channel="WarnerTV.id">
+    <programme start="20260731130000 +0000" stop="20260731151000 +0000" channel="WarnersTV.id">
         <title lang="id">Godzilla</title>
         <desc lang="id">Kadal raksasa yang bermutasi mengamuk di New York City setelah menyerang sebuah kapal barang di Pasifik. Peristiwa bencana menyatukan tim pahlawan yang tidak terduga yang harus menyelamatkan hari.</desc>
     </programme>
-    <programme start="20260731151000 +0000" stop="20260731170000 +0000" channel="WarnerTV.id">
+    <programme start="20260731151000 +0000" stop="20260731170000 +0000" channel="WarnersTV.id">
         <title lang="id">Inkheart</title>
         <desc lang="id">Seorang gadis remaja menemukan ayahnya memiliki bakat luar biasa untuk menghidupkan kembali karakter-karakter dari buku dan harus mencoba menghentikan penjahat yang sudah bebas dari menghancurkan semuanya, dengan bantuan ayahnya, bibinya, dan pahlawan dalam buku cerita.</desc>
     </programme>
-    <programme start="20260731170000 +0000" stop="20260731172500 +0000" channel="WarnerTV.id">
+    <programme start="20260731170000 +0000" stop="20260731172500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 11</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.10.0/1</episode-num>
         <episode-num system="onscreen">S01E11</episode-num>
     </programme>
-    <programme start="20260731172500 +0000" stop="20260731175000 +0000" channel="WarnerTV.id">
+    <programme start="20260731172500 +0000" stop="20260731175000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 12</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.11.0/1</episode-num>
         <episode-num system="onscreen">S01E12</episode-num>
     </programme>
-    <programme start="20260731175000 +0000" stop="20260731184000 +0000" channel="WarnerTV.id">
+    <programme start="20260731175000 +0000" stop="20260731184000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 10</title>
         <desc lang="id">During the Christmas season, a patient who resembles Santa visits the ER with a hand injury from making toys.</desc>
         <episode-num system="xmltv_ns">1.9.0/1</episode-num>
         <episode-num system="onscreen">S02E10</episode-num>
     </programme>
-    <programme start="20260731184000 +0000" stop="20260731193000 +0000" channel="WarnerTV.id">
+    <programme start="20260731184000 +0000" stop="20260731193000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 19</title>
         <desc lang="id">After Lana is almost assaulted by a college student, Clark loses control and injures him.</desc>
         <episode-num system="xmltv_ns">1.18.0/1</episode-num>
         <episode-num system="onscreen">S02E19</episode-num>
     </programme>
-    <programme start="20260731193000 +0000" stop="20260731195500 +0000" channel="WarnerTV.id">
+    <programme start="20260731193000 +0000" stop="20260731195500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 8</title>
         <desc lang="id">Brooke and Kevin go head-to-head testing out hacks to make your pool party the event of the year.</desc>
         <episode-num system="xmltv_ns">3.7.0/1</episode-num>
         <episode-num system="onscreen">S04E08</episode-num>
     </programme>
-    <programme start="20260731195500 +0000" stop="20260731204500 +0000" channel="WarnerTV.id">
+    <programme start="20260731195500 +0000" stop="20260731204500 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 8</title>
         <desc lang="id">Put Thomas Edison to shame with 20 of the World&apos;s Smartest Inventions.</desc>
         <episode-num system="xmltv_ns">15.7.0/1</episode-num>
         <episode-num system="onscreen">S16E08</episode-num>
     </programme>
-    <programme start="20260731204500 +0000" stop="20260731213500 +0000" channel="WarnerTV.id">
+    <programme start="20260731204500 +0000" stop="20260731213500 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 10</title>
         <desc lang="id">During the Christmas season, a patient who resembles Santa visits the ER with a hand injury from making toys.</desc>
         <episode-num system="xmltv_ns">1.9.0/1</episode-num>
         <episode-num system="onscreen">S02E10</episode-num>
     </programme>
-    <programme start="20260731213500 +0000" stop="20260731220000 +0000" channel="WarnerTV.id">
+    <programme start="20260731213500 +0000" stop="20260731220000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 10</title>
         <desc lang="id">The guys head to the park asking strangers to agree with their bizarre points of view.</desc>
         <episode-num system="xmltv_ns">7.9.0/1</episode-num>
         <episode-num system="onscreen">S08E10</episode-num>
     </programme>
-    <programme start="20260731220000 +0000" stop="20260731222500 +0000" channel="WarnerTV.id">
+    <programme start="20260731220000 +0000" stop="20260731222500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 1</title>
         <desc lang="id">Plus, Brooke hacks a pizza in a waffle iron, and find out how the cheeseburger became a Hack from History.</desc>
         <episode-num system="xmltv_ns">3.0.0/1</episode-num>
         <episode-num system="onscreen">S04E01</episode-num>
     </programme>
-    <programme start="20260731222500 +0000" stop="20260731225000 +0000" channel="WarnerTV.id">
+    <programme start="20260731222500 +0000" stop="20260731225000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 2</title>
         <desc lang="id">Kevin puts contestants through the ringer to see which hacks work best to crack open an oyster.</desc>
         <episode-num system="xmltv_ns">3.1.0/1</episode-num>
         <episode-num system="onscreen">S04E02</episode-num>
     </programme>
-    <programme start="20260731225000 +0000" stop="20260731231500 +0000" channel="WarnerTV.id">
+    <programme start="20260731225000 +0000" stop="20260731231500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 3</title>
         <desc lang="id">Brooke and Kevin test user-submitted hacks to see which one will bring flowers back from the dead.</desc>
         <episode-num system="xmltv_ns">3.2.0/1</episode-num>
         <episode-num system="onscreen">S04E03</episode-num>
     </programme>
-    <programme start="20260731231500 +0000" stop="20260731234000 +0000" channel="WarnerTV.id">
+    <programme start="20260731231500 +0000" stop="20260731234000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 4</title>
         <desc lang="id">Kevin hacks a fancy chandelier out of plastic spoons and he spills the tea on hacks that casinos use to hustle you.</desc>
         <episode-num system="xmltv_ns">3.3.0/1</episode-num>
         <episode-num system="onscreen">S04E04</episode-num>
     </programme>
-    <programme start="20260731234000 +0000" stop="20260801000500 +0000" channel="WarnerTV.id">
+    <programme start="20260731234000 +0000" stop="20260801000500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 5</title>
         <desc lang="id">Kevin and Brooke use the power of the sun to hack a juicy burger.</desc>
         <episode-num system="xmltv_ns">3.4.0/1</episode-num>
         <episode-num system="onscreen">S04E05</episode-num>
     </programme>
-    <programme start="20260801000500 +0000" stop="20260801003000 +0000" channel="WarnerTV.id">
+    <programme start="20260801000500 +0000" stop="20260801003000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 6</title>
         <desc lang="id">Kevin reveals a gas mask hack that will help you during a zombie apocalypse.</desc>
         <episode-num system="xmltv_ns">3.5.0/1</episode-num>
         <episode-num system="onscreen">S04E06</episode-num>
     </programme>
-    <programme start="20260801003000 +0000" stop="20260801005500 +0000" channel="WarnerTV.id">
+    <programme start="20260801003000 +0000" stop="20260801005500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 7</title>
         <desc lang="id">Brooke turns an ex&apos;s bad taste in vinyl records into a fun candy bowl.</desc>
         <episode-num system="xmltv_ns">3.6.0/1</episode-num>
         <episode-num system="onscreen">S04E07</episode-num>
     </programme>
-    <programme start="20260801005500 +0000" stop="20260801012000 +0000" channel="WarnerTV.id">
+    <programme start="20260801005500 +0000" stop="20260801012000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 8</title>
         <desc lang="id">Brooke and Kevin go head-to-head testing out hacks to make your pool party the event of the year.</desc>
         <episode-num system="xmltv_ns">3.7.0/1</episode-num>
         <episode-num system="onscreen">S04E08</episode-num>
     </programme>
-    <programme start="20260801012000 +0000" stop="20260801014500 +0000" channel="WarnerTV.id">
+    <programme start="20260801012000 +0000" stop="20260801014500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 14</title>
         <desc lang="id">When an online bully destroys Leonard and Sheldon&apos;s physics paper, the guys band together to take him down.</desc>
         <episode-num system="xmltv_ns">7.13.0/1</episode-num>
         <episode-num system="onscreen">S08E14</episode-num>
     </programme>
-    <programme start="20260801014500 +0000" stop="20260801021000 +0000" channel="WarnerTV.id">
+    <programme start="20260801014500 +0000" stop="20260801021000 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 15</title>
         <desc lang="id">Everyone awaits the reopening of Stuart&apos;s comic book store.</desc>
         <episode-num system="xmltv_ns">7.14.0/1</episode-num>
         <episode-num system="onscreen">S08E15</episode-num>
     </programme>
-    <programme start="20260801021000 +0000" stop="20260801024000 +0000" channel="WarnerTV.id">
+    <programme start="20260801021000 +0000" stop="20260801024000 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 16</title>
         <desc lang="id">Sheldon &amp; Penny try an experiment in falling in love.</desc>
         <episode-num system="xmltv_ns">7.15.0/1</episode-num>
         <episode-num system="onscreen">S08E16</episode-num>
     </programme>
-    <programme start="20260801024000 +0000" stop="20260801030500 +0000" channel="WarnerTV.id">
+    <programme start="20260801024000 +0000" stop="20260801030500 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 17</title>
         <desc lang="id">Monica battles another shopper for the perfect wedding dress. Ross and Joey compete for the same woman.</desc>
         <episode-num system="xmltv_ns">6.16.0/1</episode-num>
         <episode-num system="onscreen">S07E17</episode-num>
     </programme>
-    <programme start="20260801030500 +0000" stop="20260801033000 +0000" channel="WarnerTV.id">
+    <programme start="20260801030500 +0000" stop="20260801033000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 18</title>
         <desc lang="id">Joey overreacts at a daytime drama awards show. Ross sees Chandler leaving a male strip club.</desc>
         <episode-num system="xmltv_ns">6.17.0/1</episode-num>
         <episode-num system="onscreen">S07E18</episode-num>
     </programme>
-    <programme start="20260801033000 +0000" stop="20260801035500 +0000" channel="WarnerTV.id">
+    <programme start="20260801033000 +0000" stop="20260801035500 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 19</title>
         <desc lang="id">Monica&apos;s gorgeous cousin (DENISE RICHARDS) unwittingly wreaks havoc on Chandler and Ross.</desc>
         <episode-num system="xmltv_ns">6.18.0/1</episode-num>
         <episode-num system="onscreen">S07E19</episode-num>
     </programme>
-    <programme start="20260801035500 +0000" stop="20260801042000 +0000" channel="WarnerTV.id">
+    <programme start="20260801035500 +0000" stop="20260801042000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 20</title>
         <desc lang="id">Rachel reveals a titillating secret about her and a former sorority sister (WINONA RYDER).</desc>
         <episode-num system="xmltv_ns">6.19.0/1</episode-num>
         <episode-num system="onscreen">S07E20</episode-num>
     </programme>
-    <programme start="20260801042000 +0000" stop="20260801044500 +0000" channel="WarnerTV.id">
+    <programme start="20260801042000 +0000" stop="20260801044500 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 21</title>
         <desc lang="id">As Monica and Chandler prepare their wedding vows, they and their friends reminisce.</desc>
         <episode-num system="xmltv_ns">6.20.0/1</episode-num>
         <episode-num system="onscreen">S07E21</episode-num>
     </programme>
-    <programme start="20260801044500 +0000" stop="20260801063000 +0000" channel="WarnerTV.id">
+    <programme start="20260801044500 +0000" stop="20260801063000 +0000" channel="WarnersTV.id">
         <title lang="id">The Incredible Burt Wonderstone</title>
         <desc lang="id">Pesulap superstar Burt dan Anton mencoba menyelamatkan pertunjukan sulap Las Vegas mereka yang basi dan menyelamatkan sisa-sisa persahabatan mereka.</desc>
     </programme>
-    <programme start="20260801063000 +0000" stop="20260801085000 +0000" channel="WarnerTV.id">
+    <programme start="20260801063000 +0000" stop="20260801085000 +0000" channel="WarnersTV.id">
         <title lang="id">Pacific Rim</title>
         <desc lang="id">Aksi fiksi ilmiah tentang sekelompok manusia yang berkumpul di tahun 2020 untuk melawan pasukan makhluk mengerikan yang muncul dari laut.</desc>
     </programme>
-    <programme start="20260801085000 +0000" stop="20260801110000 +0000" channel="WarnerTV.id">
+    <programme start="20260801085000 +0000" stop="20260801110000 +0000" channel="WarnersTV.id">
         <title lang="id">Justice League</title>
         <desc lang="id">Dipicu oleh kembalinya keyakinannya pada kemanusiaan dan terinspirasi oleh tindakan tanpa pamrih Superman, Bruce Wayne meminta bantuan sekutu barunya, Diana Prince, untuk menghadapi musuh yang lebih besar.</desc>
     </programme>
-    <programme start="20260801110000 +0000" stop="20260801130000 +0000" channel="WarnerTV.id">
+    <programme start="20260801110000 +0000" stop="20260801130000 +0000" channel="WarnersTV.id">
         <title lang="id">War Dogs</title>
         <desc lang="id">Jonah Hill dan Miles Teller membintangi kisah nyata tentang dua anak pecandu ganja yang akhirnya menjadi pedagang senjata besar untuk Pemerintah AS.</desc>
     </programme>
-    <programme start="20260801130000 +0000" stop="20260801154000 +0000" channel="WarnerTV.id">
+    <programme start="20260801130000 +0000" stop="20260801154000 +0000" channel="WarnersTV.id">
         <title lang="id">Superman Returns</title>
         <desc lang="id">Superman kembali setelah lima tahun berada di luar angkasa dan mengetahui bahwa Lois telah bertunangan. Di satu sisi, dia juga mengetahui rencana jahat Lex Luthor yang mengancam keselamatan Amerika.</desc>
     </programme>
-    <programme start="20260801154000 +0000" stop="20260801170000 +0000" channel="WarnerTV.id">
+    <programme start="20260801154000 +0000" stop="20260801170000 +0000" channel="WarnersTV.id">
         <title lang="id">The Island</title>
         <desc lang="id">Lincoln Six-Echo tinggal di fasilitas tertutup pada pertengahan abad ke-21, keingintahuannya yang memberontak membawanya mengungkap kebenaran yang mengerikan.</desc>
     </programme>
-    <programme start="20260801170000 +0000" stop="20260801180000 +0000" channel="WarnerTV.id">
+    <programme start="20260801170000 +0000" stop="20260801180000 +0000" channel="WarnersTV.id">
         <title lang="id">The Island</title>
         <desc lang="id">Lincoln Six-Echo tinggal di fasilitas tertutup pada pertengahan abad ke-21, keingintahuannya yang memberontak membawanya mengungkap kebenaran yang mengerikan.</desc>
     </programme>
-    <programme start="20260801180000 +0000" stop="20260801185000 +0000" channel="WarnerTV.id">
+    <programme start="20260801180000 +0000" stop="20260801185000 +0000" channel="WarnersTV.id">
         <title lang="id">Titans S1, Ep. 7</title>
         <desc lang="id">The Titans set out to rescue Rachel&apos;s mother from an asylum.</desc>
         <episode-num system="xmltv_ns">0.6.0/1</episode-num>
         <episode-num system="onscreen">S01E07</episode-num>
     </programme>
-    <programme start="20260801185000 +0000" stop="20260801194000 +0000" channel="WarnerTV.id">
+    <programme start="20260801185000 +0000" stop="20260801194000 +0000" channel="WarnersTV.id">
         <title lang="id">Titans S1, Ep. 8</title>
         <desc lang="id">Dick turns to old friend Donna Troy/Wonder Girl for answers.</desc>
         <episode-num system="xmltv_ns">0.7.0/1</episode-num>
         <episode-num system="onscreen">S01E08</episode-num>
     </programme>
-    <programme start="20260801194000 +0000" stop="20260801200500 +0000" channel="WarnerTV.id">
+    <programme start="20260801194000 +0000" stop="20260801200500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 17</title>
         <desc lang="id">Trouble arises when Amy learns that Sheldon has applied for a one-way mission to colonize Mars.</desc>
         <episode-num system="xmltv_ns">7.16.0/1</episode-num>
         <episode-num system="onscreen">S08E17</episode-num>
     </programme>
-    <programme start="20260801200500 +0000" stop="20260801203000 +0000" channel="WarnerTV.id">
+    <programme start="20260801200500 +0000" stop="20260801203000 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 18</title>
         <desc lang="id">A final family dinner is held for Mrs. Wolowitz.</desc>
         <episode-num system="xmltv_ns">7.17.0/1</episode-num>
         <episode-num system="onscreen">S08E18</episode-num>
     </programme>
-    <programme start="20260801203000 +0000" stop="20260801211500 +0000" channel="WarnerTV.id">
+    <programme start="20260801203000 +0000" stop="20260801211500 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 6</title>
         <desc lang="id">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
         <episode-num system="xmltv_ns">1.5.0/1</episode-num>
         <episode-num system="onscreen">S02E06</episode-num>
     </programme>
-    <programme start="20260801211500 +0000" stop="20260801220000 +0000" channel="WarnerTV.id">
+    <programme start="20260801211500 +0000" stop="20260801220000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 7</title>
         <desc lang="id">After accepting a position in a private practice, Dr. Ross finds an injured boy trapped in a rural storm drain.</desc>
         <episode-num system="xmltv_ns">1.6.0/1</episode-num>
         <episode-num system="onscreen">S02E07</episode-num>
     </programme>
-    <programme start="20260801220000 +0000" stop="20260801222500 +0000" channel="WarnerTV.id">
+    <programme start="20260801220000 +0000" stop="20260801222500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 6</title>
         <desc lang="id">Everyone digs deep to win an ATM, but when the dust settles will this thing be filled with big bucks or major regret?</desc>
         <episode-num system="xmltv_ns">2.5.0/1</episode-num>
         <episode-num system="onscreen">S03E06</episode-num>
     </programme>
-    <programme start="20260801222500 +0000" stop="20260801225000 +0000" channel="WarnerTV.id">
+    <programme start="20260801222500 +0000" stop="20260801225000 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 7</title>
         <desc lang="id">It&apos;s every man for himself when a unit full of gemstones ignites an all out war among the competition.</desc>
         <episode-num system="xmltv_ns">2.6.0/1</episode-num>
         <episode-num system="onscreen">S03E07</episode-num>
     </programme>
-    <programme start="20260801225000 +0000" stop="20260801231500 +0000" channel="WarnerTV.id">
+    <programme start="20260801225000 +0000" stop="20260801231500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 8</title>
         <desc lang="id">The gloves come off when T-Money scrambles to scoop up a locker filled with vintage bar equipment.</desc>
         <episode-num system="xmltv_ns">2.7.0/1</episode-num>
         <episode-num system="onscreen">S03E08</episode-num>
     </programme>
-    <programme start="20260801231500 +0000" stop="20260801234000 +0000" channel="WarnerTV.id">
+    <programme start="20260801231500 +0000" stop="20260801234000 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 9</title>
         <desc lang="id">Mystery is the name of the game as Brandon and Lori uncover a vintage machine filled with risqu? photos. It&apos;s tantalizing, but is it profitable?</desc>
         <episode-num system="xmltv_ns">2.8.0/1</episode-num>
         <episode-num system="onscreen">S03E09</episode-num>
     </programme>
-    <programme start="20260801234000 +0000" stop="20260802000500 +0000" channel="WarnerTV.id">
+    <programme start="20260801234000 +0000" stop="20260802000500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 10</title>
         <desc lang="id">Brandon and Lori take a risk on a large covered item during an unusual auction. Will the reveal rev their profits or stall their cash flow?</desc>
         <episode-num system="xmltv_ns">2.9.0/1</episode-num>
         <episode-num system="onscreen">S03E10</episode-num>
     </programme>
-    <programme start="20260802000500 +0000" stop="20260802003000 +0000" channel="WarnerTV.id">
+    <programme start="20260802000500 +0000" stop="20260802003000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 6</title>
         <desc lang="id">The guys teach a crash course in sorry behavior.</desc>
         <episode-num system="xmltv_ns">7.5.0/1</episode-num>
         <episode-num system="onscreen">S08E06</episode-num>
     </programme>
-    <programme start="20260802003000 +0000" stop="20260802005500 +0000" channel="WarnerTV.id">
+    <programme start="20260802003000 +0000" stop="20260802005500 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 7</title>
         <desc lang="id">Joe, Q, Sal and Murr give a security presentation that&apos;s anything but safe.</desc>
         <episode-num system="xmltv_ns">7.6.0/1</episode-num>
         <episode-num system="onscreen">S08E07</episode-num>
     </programme>
-    <programme start="20260802005500 +0000" stop="20260802014000 +0000" channel="WarnerTV.id">
+    <programme start="20260802005500 +0000" stop="20260802014000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 8</title>
         <desc lang="id">The guys celebrate 100 episodes with a LIVE punishment in NYC, hosted by Howie Mandel.</desc>
         <episode-num system="xmltv_ns">7.7.0/1</episode-num>
         <episode-num system="onscreen">S08E08</episode-num>
     </programme>
-    <programme start="20260802014000 +0000" stop="20260802020500 +0000" channel="WarnerTV.id">
+    <programme start="20260802014000 +0000" stop="20260802020500 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 9</title>
         <desc lang="id">The guys take over New Orleans, as they steal sips from strangers&apos; drinks at a famous bar.</desc>
         <episode-num system="xmltv_ns">7.8.0/1</episode-num>
         <episode-num system="onscreen">S08E09</episode-num>
     </programme>
-    <programme start="20260802020500 +0000" stop="20260802023000 +0000" channel="WarnerTV.id">
+    <programme start="20260802020500 +0000" stop="20260802023000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 10</title>
         <desc lang="id">The guys head to the park asking strangers to agree with their bizarre points of view.</desc>
         <episode-num system="xmltv_ns">7.9.0/1</episode-num>
         <episode-num system="onscreen">S08E10</episode-num>
     </programme>
-    <programme start="20260802023000 +0000" stop="20260802025500 +0000" channel="WarnerTV.id">
+    <programme start="20260802023000 +0000" stop="20260802025500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 14</title>
         <desc lang="id">When an online bully destroys Leonard and Sheldon&apos;s physics paper, the guys band together to take him down.</desc>
         <episode-num system="xmltv_ns">7.13.0/1</episode-num>
         <episode-num system="onscreen">S08E14</episode-num>
     </programme>
-    <programme start="20260802025500 +0000" stop="20260802032000 +0000" channel="WarnerTV.id">
+    <programme start="20260802025500 +0000" stop="20260802032000 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 15</title>
         <desc lang="id">Everyone awaits the reopening of Stuart&apos;s comic book store.</desc>
         <episode-num system="xmltv_ns">7.14.0/1</episode-num>
         <episode-num system="onscreen">S08E15</episode-num>
     </programme>
-    <programme start="20260802032000 +0000" stop="20260802034500 +0000" channel="WarnerTV.id">
+    <programme start="20260802032000 +0000" stop="20260802034500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 16</title>
         <desc lang="id">Sheldon &amp; Penny try an experiment in falling in love.</desc>
         <episode-num system="xmltv_ns">7.15.0/1</episode-num>
         <episode-num system="onscreen">S08E16</episode-num>
     </programme>
-    <programme start="20260802034500 +0000" stop="20260802041000 +0000" channel="WarnerTV.id">
+    <programme start="20260802034500 +0000" stop="20260802041000 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 17</title>
         <desc lang="id">Trouble arises when Amy learns that Sheldon has applied for a one-way mission to colonize Mars.</desc>
         <episode-num system="xmltv_ns">7.16.0/1</episode-num>
         <episode-num system="onscreen">S08E17</episode-num>
     </programme>
-    <programme start="20260802041000 +0000" stop="20260802043500 +0000" channel="WarnerTV.id">
+    <programme start="20260802041000 +0000" stop="20260802043500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 18</title>
         <desc lang="id">A final family dinner is held for Mrs. Wolowitz.</desc>
         <episode-num system="xmltv_ns">7.17.0/1</episode-num>
         <episode-num system="onscreen">S08E18</episode-num>
     </programme>
-    <programme start="20260802043500 +0000" stop="20260802050000 +0000" channel="WarnerTV.id">
+    <programme start="20260802043500 +0000" stop="20260802050000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 17</title>
         <desc lang="id">Monica battles another shopper for the perfect wedding dress. Ross and Joey compete for the same woman.</desc>
         <episode-num system="xmltv_ns">6.16.0/1</episode-num>
         <episode-num system="onscreen">S07E17</episode-num>
     </programme>
-    <programme start="20260802050000 +0000" stop="20260802064500 +0000" channel="WarnerTV.id">
+    <programme start="20260802050000 +0000" stop="20260802064500 +0000" channel="WarnersTV.id">
         <title lang="id">Cellular</title>
         <desc lang="id">Satu-satunya harapan seorang wanita yang diculik untuk diselamatkan dari penculik kejam adalah dengan menelepon seseorang yang bahkan tidak dikenalnya.</desc>
     </programme>
-    <programme start="20260802064500 +0000" stop="20260802084500 +0000" channel="WarnerTV.id">
+    <programme start="20260802064500 +0000" stop="20260802084500 +0000" channel="WarnersTV.id">
         <title lang="id">Green Lantern</title>
         <desc lang="id">Seorang pilot uji dianugerahi kekuatan super dan ditugaskan untuk menjaga perdamaian di alam semesta.</desc>
     </programme>
-    <programme start="20260802084500 +0000" stop="20260802111500 +0000" channel="WarnerTV.id">
+    <programme start="20260802084500 +0000" stop="20260802111500 +0000" channel="WarnersTV.id">
         <title lang="id">King Richard</title>
         <desc lang="id">Menjelajahi bagaimana superstar tenis Venus dan Serena Williams menjadi seperti sekarang setelah dibimbing oleh ayah mereka, Richard Williams.</desc>
     </programme>
-    <programme start="20260802111500 +0000" stop="20260802130000 +0000" channel="WarnerTV.id">
+    <programme start="20260802111500 +0000" stop="20260802130000 +0000" channel="WarnersTV.id">
         <title lang="id">Vacation</title>
         <desc lang="id">Generasi Griswolds berikutnya memulai petualangan yang tidak menyenangkan. Kali ini, mereka menuju &quot;taman rekreasi keluarga favorit di Amerika&quot;.</desc>
     </programme>
-    <programme start="20260802130000 +0000" stop="20260802151000 +0000" channel="WarnerTV.id">
+    <programme start="20260802130000 +0000" stop="20260802151000 +0000" channel="WarnersTV.id">
         <title lang="id">King Arthur: Legend of the Sword</title>
         <desc lang="id">Pembuat film terkenal Guy Ritchie membawa gayanya yang dinamis ke mitos klasik Excalibur, menelusuri perjalanan Arthur dari jalanan hingga naik takhta.</desc>
     </programme>
-    <programme start="20260802151000 +0000" stop="20260802165500 +0000" channel="WarnerTV.id">
+    <programme start="20260802151000 +0000" stop="20260802165500 +0000" channel="WarnersTV.id">
         <title lang="id">License to Wed</title>
         <desc lang="id">Seorang pendeta memberikan kursus persiapan pernikahan yang berat kepada pasangan yang bertunangan untuk melihat apakah mereka ditakdirkan untuk menikah di gerejanya.</desc>
     </programme>
-    <programme start="20260802165500 +0000" stop="20260802170000 +0000" channel="WarnerTV.id">
+    <programme start="20260802165500 +0000" stop="20260802170000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 18</title>
         <desc lang="id">Joey overreacts at a daytime drama awards show. Ross sees Chandler leaving a male strip club.</desc>
         <episode-num system="xmltv_ns">6.17.0/1</episode-num>
         <episode-num system="onscreen">S07E18</episode-num>
     </programme>
-    <programme start="20260802170000 +0000" stop="20260802172000 +0000" channel="WarnerTV.id">
+    <programme start="20260802170000 +0000" stop="20260802172000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 18</title>
         <desc lang="id">Joey overreacts at a daytime drama awards show. Ross sees Chandler leaving a male strip club.</desc>
         <episode-num system="xmltv_ns">6.17.0/1</episode-num>
         <episode-num system="onscreen">S07E18</episode-num>
     </programme>
-    <programme start="20260802172000 +0000" stop="20260802174500 +0000" channel="WarnerTV.id">
+    <programme start="20260802172000 +0000" stop="20260802174500 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 19</title>
         <desc lang="id">Monica&apos;s gorgeous cousin (DENISE RICHARDS) unwittingly wreaks havoc on Chandler and Ross.</desc>
         <episode-num system="xmltv_ns">6.18.0/1</episode-num>
         <episode-num system="onscreen">S07E19</episode-num>
     </programme>
-    <programme start="20260802174500 +0000" stop="20260802181000 +0000" channel="WarnerTV.id">
+    <programme start="20260802174500 +0000" stop="20260802181000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 20</title>
         <desc lang="id">Rachel reveals a titillating secret about her and a former sorority sister (WINONA RYDER).</desc>
         <episode-num system="xmltv_ns">6.19.0/1</episode-num>
         <episode-num system="onscreen">S07E20</episode-num>
     </programme>
-    <programme start="20260802181000 +0000" stop="20260802184000 +0000" channel="WarnerTV.id">
+    <programme start="20260802181000 +0000" stop="20260802184000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 21</title>
         <desc lang="id">As Monica and Chandler prepare their wedding vows, they and their friends reminisce.</desc>
         <episode-num system="xmltv_ns">6.20.0/1</episode-num>
         <episode-num system="onscreen">S07E21</episode-num>
     </programme>
-    <programme start="20260802184000 +0000" stop="20260802193000 +0000" channel="WarnerTV.id">
+    <programme start="20260802184000 +0000" stop="20260802193000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 16</title>
         <desc lang="id">Martha is seriously sickened by meteor dust, and Clark and Jonathan desperately try to help her. But when Clark becomes infected as well, he finds out just how vulnerable he can be.</desc>
         <episode-num system="xmltv_ns">1.15.0/1</episode-num>
         <episode-num system="onscreen">S02E16</episode-num>
     </programme>
-    <programme start="20260802193000 +0000" stop="20260802202000 +0000" channel="WarnerTV.id">
+    <programme start="20260802193000 +0000" stop="20260802202000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 17</title>
         <desc lang="id">Clark travels to New York to meet Dr. Virgil Swann (Christopher Reeve), a brilliant scientist who possesses a message for Clark from his home planet.</desc>
         <episode-num system="xmltv_ns">1.16.0/1</episode-num>
         <episode-num system="onscreen">S02E17</episode-num>
     </programme>
-    <programme start="20260802202000 +0000" stop="20260802211000 +0000" channel="WarnerTV.id">
+    <programme start="20260802202000 +0000" stop="20260802211000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 18</title>
         <desc lang="id">After a schoolmate claims to be an alien and seemingly proves it by using heat vision, Clark begins to believe that the boy is from Krypton.</desc>
         <episode-num system="xmltv_ns">1.17.0/1</episode-num>
         <episode-num system="onscreen">S02E18</episode-num>
     </programme>
-    <programme start="20260802211000 +0000" stop="20260802220000 +0000" channel="WarnerTV.id">
+    <programme start="20260802211000 +0000" stop="20260802220000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 19</title>
         <desc lang="id">After Lana is almost assaulted by a college student, Clark loses control and injures him.</desc>
         <episode-num system="xmltv_ns">1.18.0/1</episode-num>
         <episode-num system="onscreen">S02E19</episode-num>
     </programme>
-    <programme start="20260802220000 +0000" stop="20260802222500 +0000" channel="WarnerTV.id">
+    <programme start="20260802220000 +0000" stop="20260802222500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 13</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.12.0/1</episode-num>
         <episode-num system="onscreen">S01E13</episode-num>
     </programme>
-    <programme start="20260802222500 +0000" stop="20260802225000 +0000" channel="WarnerTV.id">
+    <programme start="20260802222500 +0000" stop="20260802225000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 14</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.13.0/1</episode-num>
         <episode-num system="onscreen">S01E14</episode-num>
     </programme>
-    <programme start="20260802225000 +0000" stop="20260802234000 +0000" channel="WarnerTV.id">
+    <programme start="20260802225000 +0000" stop="20260802234000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 11</title>
         <desc lang="id">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
         <episode-num system="xmltv_ns">1.10.0/1</episode-num>
         <episode-num system="onscreen">S02E11</episode-num>
     </programme>
-    <programme start="20260802234000 +0000" stop="20260803003000 +0000" channel="WarnerTV.id">
+    <programme start="20260802234000 +0000" stop="20260803003000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 20</title>
         <desc lang="id">Clark inadvertently witnesses the robbery of a LuthorCorp truck carrying kryptonite and is stunned to realize that he can&apos;t stop the thieves--they are as strong as he is.</desc>
         <episode-num system="xmltv_ns">1.19.0/1</episode-num>
         <episode-num system="onscreen">S02E20</episode-num>
     </programme>
-    <programme start="20260803003000 +0000" stop="20260803005500 +0000" channel="WarnerTV.id">
+    <programme start="20260803003000 +0000" stop="20260803005500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 9</title>
         <desc lang="id">Go hack to the future to cope with some emotional hacks.</desc>
         <episode-num system="xmltv_ns">3.8.0/1</episode-num>
         <episode-num system="onscreen">S04E09</episode-num>
     </programme>
-    <programme start="20260803005500 +0000" stop="20260803012000 +0000" channel="WarnerTV.id">
+    <programme start="20260803005500 +0000" stop="20260803012000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 10</title>
         <desc lang="id">Kevin and Brooke learn at-home exercise hacks from Good Housekeeping. Plus, Kevin judges a granny vs. granny hack battle.</desc>
         <episode-num system="xmltv_ns">3.9.0/1</episode-num>
         <episode-num system="onscreen">S04E10</episode-num>
     </programme>
-    <programme start="20260803012000 +0000" stop="20260803014500 +0000" channel="WarnerTV.id">
+    <programme start="20260803012000 +0000" stop="20260803014500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 13</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.12.0/1</episode-num>
         <episode-num system="onscreen">S01E13</episode-num>
     </programme>
-    <programme start="20260803014500 +0000" stop="20260803021000 +0000" channel="WarnerTV.id">
+    <programme start="20260803014500 +0000" stop="20260803021000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 14</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.13.0/1</episode-num>
         <episode-num system="onscreen">S01E14</episode-num>
     </programme>
-    <programme start="20260803021000 +0000" stop="20260803030000 +0000" channel="WarnerTV.id">
+    <programme start="20260803021000 +0000" stop="20260803030000 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 9</title>
         <desc lang="id">World&apos;s Dumbest presents &quot;Only in America.&quot; Featuring 20 of the most patriotic patriots in the land.</desc>
         <episode-num system="xmltv_ns">15.8.0/1</episode-num>
         <episode-num system="onscreen">S16E09</episode-num>
     </programme>
-    <programme start="20260803030000 +0000" stop="20260803032500 +0000" channel="WarnerTV.id">
+    <programme start="20260803030000 +0000" stop="20260803032500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 11</title>
         <desc lang="id">When our buyers back away from a bin piled sky high with rusty office cabinets one hawk-eyed competitor sees something no one else does.</desc>
         <episode-num system="xmltv_ns">2.10.0/1</episode-num>
         <episode-num system="onscreen">S03E11</episode-num>
     </programme>
-    <programme start="20260803032500 +0000" stop="20260803035000 +0000" channel="WarnerTV.id">
+    <programme start="20260803032500 +0000" stop="20260803035000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 11</title>
         <desc lang="id">The guys get a taste of babysitting while asking reluctant strangers to watch their kid.</desc>
         <episode-num system="xmltv_ns">7.10.0/1</episode-num>
         <episode-num system="onscreen">S08E11</episode-num>
     </programme>
-    <programme start="20260803035000 +0000" stop="20260803044000 +0000" channel="WarnerTV.id">
+    <programme start="20260803035000 +0000" stop="20260803044000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 20</title>
         <desc lang="id">Clark inadvertently witnesses the robbery of a LuthorCorp truck carrying kryptonite and is stunned to realize that he can&apos;t stop the thieves--they are as strong as he is.</desc>
         <episode-num system="xmltv_ns">1.19.0/1</episode-num>
         <episode-num system="onscreen">S02E20</episode-num>
     </programme>
-    <programme start="20260803044000 +0000" stop="20260803050500 +0000" channel="WarnerTV.id">
+    <programme start="20260803044000 +0000" stop="20260803050500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 9</title>
         <desc lang="id">Go hack to the future to cope with some emotional hacks.</desc>
         <episode-num system="xmltv_ns">3.8.0/1</episode-num>
         <episode-num system="onscreen">S04E09</episode-num>
     </programme>
-    <programme start="20260803050500 +0000" stop="20260803053000 +0000" channel="WarnerTV.id">
+    <programme start="20260803050500 +0000" stop="20260803053000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 10</title>
         <desc lang="id">Kevin and Brooke learn at-home exercise hacks from Good Housekeeping. Plus, Kevin judges a granny vs. granny hack battle.</desc>
         <episode-num system="xmltv_ns">3.9.0/1</episode-num>
         <episode-num system="onscreen">S04E10</episode-num>
     </programme>
-    <programme start="20260803053000 +0000" stop="20260803055500 +0000" channel="WarnerTV.id">
+    <programme start="20260803053000 +0000" stop="20260803055500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 18</title>
         <desc lang="id">A final family dinner is held for Mrs. Wolowitz.</desc>
         <episode-num system="xmltv_ns">7.17.0/1</episode-num>
         <episode-num system="onscreen">S08E18</episode-num>
     </programme>
-    <programme start="20260803055500 +0000" stop="20260803062000 +0000" channel="WarnerTV.id">
+    <programme start="20260803055500 +0000" stop="20260803062000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 21</title>
         <desc lang="id">As Monica and Chandler prepare their wedding vows, they and their friends reminisce.</desc>
         <episode-num system="xmltv_ns">6.20.0/1</episode-num>
         <episode-num system="onscreen">S07E21</episode-num>
     </programme>
-    <programme start="20260803062000 +0000" stop="20260803071000 +0000" channel="WarnerTV.id">
+    <programme start="20260803062000 +0000" stop="20260803071000 +0000" channel="WarnersTV.id">
         <title lang="id">Er S2, Ep. 11</title>
         <desc lang="id">Follow the personal and professional lives of the doctors and patients inside a Chicago hospital emergency room.</desc>
         <episode-num system="xmltv_ns">1.10.0/1</episode-num>
         <episode-num system="onscreen">S02E11</episode-num>
     </programme>
-    <programme start="20260803071000 +0000" stop="20260803080000 +0000" channel="WarnerTV.id">
+    <programme start="20260803071000 +0000" stop="20260803080000 +0000" channel="WarnersTV.id">
         <title lang="id">World&apos;s Dumbest S16, Ep. 9</title>
         <desc lang="id">World&apos;s Dumbest presents &quot;Only in America.&quot; Featuring 20 of the most patriotic patriots in the land.</desc>
         <episode-num system="xmltv_ns">15.8.0/1</episode-num>
         <episode-num system="onscreen">S16E09</episode-num>
     </programme>
-    <programme start="20260803080000 +0000" stop="20260803082500 +0000" channel="WarnerTV.id">
+    <programme start="20260803080000 +0000" stop="20260803082500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 18</title>
         <desc lang="id">A final family dinner is held for Mrs. Wolowitz.</desc>
         <episode-num system="xmltv_ns">7.17.0/1</episode-num>
         <episode-num system="onscreen">S08E18</episode-num>
     </programme>
-    <programme start="20260803082500 +0000" stop="20260803085000 +0000" channel="WarnerTV.id">
+    <programme start="20260803082500 +0000" stop="20260803085000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 21</title>
         <desc lang="id">As Monica and Chandler prepare their wedding vows, they and their friends reminisce.</desc>
         <episode-num system="xmltv_ns">6.20.0/1</episode-num>
         <episode-num system="onscreen">S07E21</episode-num>
     </programme>
-    <programme start="20260803085000 +0000" stop="20260803091500 +0000" channel="WarnerTV.id">
+    <programme start="20260803085000 +0000" stop="20260803091500 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 9</title>
         <desc lang="id">Go hack to the future to cope with some emotional hacks.</desc>
         <episode-num system="xmltv_ns">3.8.0/1</episode-num>
         <episode-num system="onscreen">S04E09</episode-num>
     </programme>
-    <programme start="20260803091500 +0000" stop="20260803094000 +0000" channel="WarnerTV.id">
+    <programme start="20260803091500 +0000" stop="20260803094000 +0000" channel="WarnersTV.id">
         <title lang="id">Hack My Life S4, Ep. 10</title>
         <desc lang="id">Kevin and Brooke learn at-home exercise hacks from Good Housekeeping. Plus, Kevin judges a granny vs. granny hack battle.</desc>
         <episode-num system="xmltv_ns">3.9.0/1</episode-num>
         <episode-num system="onscreen">S04E10</episode-num>
     </programme>
-    <programme start="20260803094000 +0000" stop="20260803103000 +0000" channel="WarnerTV.id">
+    <programme start="20260803094000 +0000" stop="20260803103000 +0000" channel="WarnersTV.id">
         <title lang="id">Smallville S2, Ep. 20</title>
         <desc lang="id">Clark inadvertently witnesses the robbery of a LuthorCorp truck carrying kryptonite and is stunned to realize that he can&apos;t stop the thieves--they are as strong as he is.</desc>
         <episode-num system="xmltv_ns">1.19.0/1</episode-num>
         <episode-num system="onscreen">S02E20</episode-num>
     </programme>
-    <programme start="20260803103000 +0000" stop="20260803105500 +0000" channel="WarnerTV.id">
+    <programme start="20260803103000 +0000" stop="20260803105500 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 13</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.12.0/1</episode-num>
         <episode-num system="onscreen">S01E13</episode-num>
     </programme>
-    <programme start="20260803105500 +0000" stop="20260803112000 +0000" channel="WarnerTV.id">
+    <programme start="20260803105500 +0000" stop="20260803112000 +0000" channel="WarnersTV.id">
         <title lang="id">Full House S1, Ep. 14</title>
         <desc lang="id">Three grown men experiencing the &quot;joys of motherhood,&quot; as they raise three adorable girls in a Full House.</desc>
         <episode-num system="xmltv_ns">0.13.0/1</episode-num>
         <episode-num system="onscreen">S01E14</episode-num>
     </programme>
-    <programme start="20260803112000 +0000" stop="20260803114500 +0000" channel="WarnerTV.id">
+    <programme start="20260803112000 +0000" stop="20260803114500 +0000" channel="WarnersTV.id">
         <title lang="id">The Big Bang Theory S8, Ep. 19</title>
         <desc lang="id">Leonard and Sheldon consider dropping by George Lucas&apos; Skywalker Ranch when a speaking engagement puts them nearby.</desc>
         <episode-num system="xmltv_ns">7.18.0/1</episode-num>
         <episode-num system="onscreen">S08E19</episode-num>
     </programme>
-    <programme start="20260803114500 +0000" stop="20260803121000 +0000" channel="WarnerTV.id">
+    <programme start="20260803114500 +0000" stop="20260803121000 +0000" channel="WarnersTV.id">
         <title lang="id">Friends S7, Ep. 22</title>
         <desc lang="id">Chandler confronts his estranged cross-dressing father (KATHLEEN TURNER).</desc>
         <episode-num system="xmltv_ns">6.21.0/1</episode-num>
         <episode-num system="onscreen">S07E22</episode-num>
     </programme>
-    <programme start="20260803121000 +0000" stop="20260803123500 +0000" channel="WarnerTV.id">
+    <programme start="20260803121000 +0000" stop="20260803123500 +0000" channel="WarnersTV.id">
         <title lang="id">Storage Hunters S3, Ep. 11</title>
         <desc lang="id">When our buyers back away from a bin piled sky high with rusty office cabinets one hawk-eyed competitor sees something no one else does.</desc>
         <episode-num system="xmltv_ns">2.10.0/1</episode-num>
         <episode-num system="onscreen">S03E11</episode-num>
     </programme>
-    <programme start="20260803123500 +0000" stop="20260803130000 +0000" channel="WarnerTV.id">
+    <programme start="20260803123500 +0000" stop="20260803130000 +0000" channel="WarnersTV.id">
         <title lang="id">Impractical Jokers S8, Ep. 11</title>
         <desc lang="id">The guys get a taste of babysitting while asking reluctant strangers to watch their kid.</desc>
         <episode-num system="xmltv_ns">7.10.0/1</episode-num>
         <episode-num system="onscreen">S08E11</episode-num>
     </programme>
-    <programme start="20260803130000 +0000" stop="20260803135000 +0000" channel="WarnerTV.id">
+    <programme start="20260803130000 +0000" stop="20260803135000 +0000" channel="WarnersTV.id">
         <title lang="id">Titans S1, Ep. 9</title>
         <desc lang="id">The origin story of vigilante Super Heroes Hawk and Dove.</desc>
         <episode-num system="xmltv_ns">0.8.0/1</episode-num>
         <episode-num system="onscreen">S01E09</episode-num>
     </programme>
-    <programme start="20260803135000 +0000" stop="20260803154000 +0000" channel="WarnerTV.id">
+    <programme start="20260803135000 +0000" stop="20260803154000 +0000" channel="WarnersTV.id">
         <title lang="id">Deep Blue Sea</title>
         <desc lang="id">Para ilmuwan melakukan penelitian terhadap hiu untuk mencari obat Alzheimer. Namun jalan pintas yang berbahaya akan menghasilkan hiu berukuran besar dengan kecerdasan mendekati manusia.</desc>
     </programme>
-    <programme start="20260803154000 +0000" stop="20260803170000 +0000" channel="WarnerTV.id">
+    <programme start="20260803154000 +0000" stop="20260803170000 +0000" channel="WarnersTV.id">
         <title lang="id">Dial M for Murder</title>
         <desc lang="id">Seorang suami yang selingkuh menjebak istrinya atas pembunuhan pria yang disewanya untuk membunuh istrinya.</desc>
     </programme>
